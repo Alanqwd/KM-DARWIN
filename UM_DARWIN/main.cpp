@@ -11,7 +11,6 @@ int main() {
 
 	// Initializing
 	start_check();
-	start_gameguard();
 	start_driver();
 
 	ProcessId = Driver().GetPid();
